@@ -1,12 +1,11 @@
 # ThermoState
-A CoolProp GUI for calculating Thermodynamics properties of fluids. Product [website.](https://thermo-state.github.io )
+A CoolProp GUI for calculating Thermodynamics properties of fluids. 
 
-[Download](https://github.com/Thermo-State/ThermoState/releases/download/v1.0/ThermoState-v1.0.setup.exe) for windows 7/8/10 64 bit
-
+Go to the [website.](https://thermo-state.github.io )
 
 
 ThermoState uses CoolProp Library to calculate properties. It provides a GUI for the library with some added convenient features. It doesn't support fluid mixtures yet.
-Following Fluids are supported.
+Following Fluids are included.
 ```python
 from CoolProp import CoolProp
 CoolProp.FluidsList()
@@ -19,3 +18,16 @@ These imput combinations are supported for water/steam (HEOS Backend) and most o
 ThermoState calculates/ Tabulates the followings results from CoolProp
 > Temperature, Pressure, Sp Volume, Density, Entropy, Enthalpy, Internal Energy, Quality
 > Phase, Cp, Cv, Conductivity, Prandtl Number, Viscosity, Compressibility Factor, Surface Tension, Gibbs Energy, Helmholtz Energy
+
+
+Keywords
+```
+Thermophysical properties calculator
+Thermodynamic and Transport Properties database
+Thermodynamic State diagrams: Ts, Ph, hs
+Steam table calculator
+Refirigerents
+Thermodynamic problems solver
+CoolProp GUI
+REFPROP alternative
+```
