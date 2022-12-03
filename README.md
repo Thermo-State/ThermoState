@@ -1,10 +1,15 @@
 # ThermoState
 A CoolProp GUI for calculating Thermodynamics properties of fluids. 
 
-Go to the [website.](https://thermo-state.github.io )
+By - [Shihabus Sakib Rad](https://github.com/Shihabus-Sakib-Rad)
+
+Go to the [download page.](https://thermo-state.github.io )
 
 
 ThermoState uses CoolProp Library to calculate properties. It provides a GUI for the library with some added convenient features. It doesn't support fluid mixtures yet.
+
+![alt text](https://thermo-state.github.io/assets/img/Main-GUI.png)
+
 Following Fluids are included.
 ```python
 from CoolProp import CoolProp
